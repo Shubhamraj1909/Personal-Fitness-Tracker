@@ -25,13 +25,13 @@ Before running the system, ensure you have the following installed:
 1. Clone this repository to your local machine:  
    ```bash
    git clone https://github.com/YOUR-USERNAME/Personal-Fitness-Tracker.git
-2.Navigate to the project directory:
+ 2.Navigate to the project directory:
 
-cd Personal-Fitness-Tracker
+   cd Personal-Fitness-Tracker
 
-3.Install the required dependencies:
+ 3.Install the required dependencies:
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 ## Usage
 To run the program, use the following command:
