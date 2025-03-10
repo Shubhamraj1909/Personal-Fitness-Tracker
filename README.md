@@ -21,6 +21,7 @@ pandas
 matplotlib (for progress visualization)
 tensorflow or PyTorch (for advanced analytics, if needed)
 sqlite3 or any other database module (for storing fitness data)
+
 Installation
 Clone this repository to your local machine:
 bash
