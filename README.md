@@ -16,6 +16,7 @@ Before running the system, ensure the following are installed:
 
 Python (Version 3.x)
 Required Libraries:
+
 numpy
 pandas
 matplotlib (for progress visualization)
@@ -23,6 +24,7 @@ tensorflow or PyTorch (for advanced analytics, if needed)
 sqlite3 or any other database module (for storing fitness data)
 
 Installation
+
 Clone this repository to your local machine:
 bash
 Copy
