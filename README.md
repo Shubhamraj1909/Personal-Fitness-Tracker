@@ -30,11 +30,11 @@ Before running the system, ensure you have the following installed:
 cd Personal-Fitness-Tracker
 
 3.Install the required dependencies:
-```bash
+
 pip install -r requirements.txt
 
 ##Usage
 To run the program, use the following command:
-```bash
+
 python app1.py
 
