@@ -14,14 +14,18 @@ Database Integration: Stores user fitness data securely for tracking and analysi
 Prerequisites
 Before running the system, ensure the following are installed:
 
-Python (Version 3.x)
-Required Libraries:
+.Python (Version 3.x)
+.Required Libraries:
 
-numpy
-pandas
-matplotlib (for progress visualization)
-tensorflow or PyTorch (for advanced analytics, if needed)
-sqlite3 or any other database module (for storing fitness data)
+.numpy
+
+.pandas
+
+.matplotlib (for progress visualization)
+
+.tensorflow or PyTorch (for advanced analytics, if needed)
+
+.sqlite3 or any other database module (for storing fitness data)
 
 Installation
 
